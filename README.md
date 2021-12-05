@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imshukla10
+- 👋 Hi, I’m Ritesh
 - 👀 I’m interested in Android Development and Data Structure
 - 🌱 I’m currently learning Android
 
