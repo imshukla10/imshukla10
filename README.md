@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Android Development and DSA**
 
+- ⚡ I'm 3★ on Codechef
+
 - 📫 How to reach me **ritesh.1923ec1099@kiet.edu**
 
 <h3 align="left">Connect with me:</h3>
