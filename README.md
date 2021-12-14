@@ -18,7 +18,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="40"/>
+
+<p align="left"> 
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="c++" width="60" height="40"/> </a>  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="40"/>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="git" width="80" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshukla10&langs_count=8&show_icons=true&theme=radical" alt="imshukla" /></p>
