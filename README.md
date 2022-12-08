@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshukla10&label=Profile%20views&color=0e75b6&style=flat" alt="imshukla" /> </p>
 
-- 🌱 I’m currently learning **Android Development and DSA**
+- 🌱 I’m currently learning **Web Development**
 
-- ⚡ I'm 3★ on Codechef
+- ⚡ I'm 3★ on Codechef and 1667 rated on Leetcode.
 
-- 📫 How to reach me **ritesh.1923ec1099@kiet.edu**
+- 📫 How to reach me **ritesh.shukla1004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
