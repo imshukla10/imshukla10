@@ -20,10 +20,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="c++" width="60" height="40"/> </a>  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="40"/>
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="c++" width="60" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="60" height="40"/>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="git" width="80" height="40"/>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="git" width="80" height="40"/></p>
-
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="git" width="80" height="40"/></a>
+<a href="#"><img src="https://camo.githubusercontent.com/6b457452bb92078e3c886e97fdede78beb3d05d931cfd516942e91b26c6c283c/68747470733a2f2f63646e2e7261776769742e636f6d2f7a656b652f6a6176617363726970742d79656c6c6f772f6d61737465722f6c6f676f2e737667" height="40" width="60" alt="Javascript"></a>
+</p>
+  
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshukla10&langs_count=8&show_icons=true&theme=radical" alt="imshukla" /></p>
 <br>
   <br>
